@@ -1,0 +1,27 @@
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor folders
+.vscode/
+.idea/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local env and secrets
+.env
+.env.*
+
+# Logs and temp files
+*.log
+tmp/
+temp/

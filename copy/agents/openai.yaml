@@ -1,0 +1,4 @@
+interface:
+  display_name: "朋友圈宣传文案"
+  short_description: "生成专业、克制、不油腻的朋友圈宣传文案，适合AI平台、算力、Token等业务日常发声。"
+  default_prompt: "Use $copy to draft a short WeChat Moments post about AI, computing power, or token-related business in a professional public voice that feels calm, restrained, and not preachy."
